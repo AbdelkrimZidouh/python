@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.production
+
+matrix_env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+matrix_analysis.png
+*.log
